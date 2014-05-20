@@ -4,6 +4,7 @@
         this.action = 'peropero':
 
         function privateNeco () {}
+        function privateAction () {}
     };
 
     Necohcan.prototype.init = function () {};
