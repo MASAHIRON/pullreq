@@ -5,6 +5,10 @@
 
         function privateNeco () {}
         function privateAction () {}
+
+        return {
+            publicNeco: privateNeco
+        }
     };
 
     Necohcan.prototype.init = function () {};
