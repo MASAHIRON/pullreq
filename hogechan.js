@@ -1,1 +1,6 @@
-(function () {});
+(function () {
+    functoin Hogechan () {
+    };
+
+    return Hogechan;
+})();
