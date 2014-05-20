@@ -1,3 +1,3 @@
 Hello Pull Request
-
-2014 04 17 HOGE
+Hello Pull Request
+Hello Pull Request
